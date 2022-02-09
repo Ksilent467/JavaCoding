@@ -1,5 +1,5 @@
 package Questions;
-
+//This is to check duplicates in an array
 public class ArrayDuplicacy {
 	public static void main(String args[])
 	{
