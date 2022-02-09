@@ -11,7 +11,7 @@ public class Factorial {
 		
 		System.out.println("1.Regular Method");
 		System.out.println("2.Recursion Method");
-		System.out.println("You want to find by Recursion or Regular Method?");
+		System.out.println("You want to find via Recursion or Regular Method?");
 		int m=sc.nextInt();
 		
 		switch(m)
